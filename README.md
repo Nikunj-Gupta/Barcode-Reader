@@ -15,6 +15,13 @@ We have made a prototype of a Pen-type Barcode reader.
 * [Video][video]
 * [Poster][poster]
 
+### Acknowledgements
+
+* [Prof. Madhav Rao][profmr] for guiding us and giving us an opportunity to learn a lot from such a project.
+* Our seniors and classmates for giving useful tips and ideas for successfully completing our project.
+
+
+
 ### Development
 
 Want to contribute? Great!
@@ -23,3 +30,4 @@ Want to contribute? Great!
    [arduinohome]: <https://www.arduino.cc/>
    [video]: <https://www.dropbox.com/s/94tqnb6q5rkg8dd/Pen-Type%20Barcode%20Reader%20Prototype.avi?dl=0>
    [poster]: <https://www.dropbox.com/s/1iul44nl4no9l4s/elab%20poster.pptx?dl=0>
+   [profmr]: <http://www.iiitb.ac.in/faculty_page.php?name=MadhavRao>
