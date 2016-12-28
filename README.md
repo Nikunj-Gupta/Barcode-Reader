@@ -15,6 +15,21 @@ We have made a prototype of a Pen-type Barcode reader.
 * [Video][video]
 * [Poster][poster]
 
+### Materials and Methods	
+
+Materials used are:
+* A photodiode
+* A red LED
+* Resistors
+* LCD screen
+* Arduino board
+* Connecting wires
+* 4 barcodes
+
+A pen-type reader has a light source (red LED) and a photodiode at the tip of the pen. The tip of the pen is moved over the barcode to scan it. After scanning the code, an analog signal is sent through the  arduino board, which is interpreted and then the final output is displayed on the LCD screen. 
+
+We designed four different barcodes of our own, each corresponding to  four of our teammates. These barcodes were scanned and the respective name of the member, associated with the barcode was displayed on the LCD screen.  
+
 ### Acknowledgements
 
 * [Prof. Madhav Rao][profmr] for guiding us and giving us an opportunity to learn a lot from such a project.
@@ -26,6 +41,10 @@ We have made a prototype of a Pen-type Barcode reader.
 
 Want to contribute? Great!
 
+# Conclusions and future work
+We learnt how design the internal circuit of a pen-type barcode reader. We learnt the working of a photodiode. We learnt the working of a LCD screen through  an arduino  code and also learnt how an analog signal is read from the scanner, through an arduino code.
+
+Given an opportunity, we would like to design and work out with other type of barcode scanners too. We would also like to learn and scan original barcodes using our barcode scanner. We would also like to make much efficient scanner to scan barcodes.
 
    [arduinohome]: <https://www.arduino.cc/>
    [video]: <https://www.dropbox.com/s/94tqnb6q5rkg8dd/Pen-Type%20Barcode%20Reader%20Prototype.avi?dl=0>
